@@ -1,0 +1,17 @@
+.button-wrapper {
+  color: #888;
+  height: 4em;
+  justify-content: center;
+  align-items: center;
+  font-weight: lighter;
+  font-size: 1.4em;
+  background-color: #e0e1e6;
+  flex: 1;
+  outline: 1px solid grey;
+  text-align: center;
+}
+
+.operator {
+  background-color: orange;
+  color: white;
+}
